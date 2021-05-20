@@ -1,5 +1,7 @@
 ### Howdy! 👋
 
+📫 How to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
+
 <!--
 **egorskikh/egorskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

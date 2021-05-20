@@ -2,7 +2,7 @@
 
 I would be glad if you can leave feedback after reviewing my code.
 
-📫 How to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
+📫  How to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
 
 <!--
 **egorskikh/egorskikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

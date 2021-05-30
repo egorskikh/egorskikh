@@ -2,8 +2,8 @@
 
 I would be glad if you can leave feedback after reviewing my code.
 
-💼  My [portfolio](https://egorskikh.ru/project.html)
-📫  How to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
+- 💼  My [portfolio](https://egorskikh.ru/project.html)
+- 📫  How to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
 
 
 <!--

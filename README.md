@@ -4,7 +4,7 @@ I would be glad if you can leave feedback after reviewing [my code](https://egor
 
 - 📫  how to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
 - 💼  portfolio: [link](https://egorskikh.ru/project.html)
-- 📃  cv: [ru](https://egorskikh.ru/cv.html)
+
 
 
 <!--
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📃  cv: [ru](https://egorskikh.ru/cv.html)
 -->

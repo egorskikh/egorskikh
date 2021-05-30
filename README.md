@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I would be glad if you can leave feedback after reviewing my code.
+I would be glad if you can leave feedback after reviewing [my code](https://egorskikh.ru/project.html).
 
 - 📫  how to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
 - 💼  portfolio: [link](https://egorskikh.ru/project.html)

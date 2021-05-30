@@ -4,7 +4,7 @@ I would be glad if you can leave feedback after reviewing my code.
 
 - 📫  how to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
 - 💼  portfolio: [link](https://egorskikh.ru/project.html)
-- 📃  cv: [rus](https://egorskikh.ru/cv.html)
+- 📃  cv: [ru](https://egorskikh.ru/cv.html)
 
 
 <!--

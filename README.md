@@ -1,11 +1,11 @@
-## Howdy! 👋
+### Howdy! 👋
 
 I would be glad if you can leave feedback after reviewing my code.
 
 - 💼  portfolio: [link](https://egorskikh.ru/project.html)
 - 📫  how to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
 
-## Notes 🗒
+### Notes 🗒
 
 - [IOS Data Structures && Algorithms ](https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms)
 - [IOS Animations](https://github.com/egorskikh/IOS-Animations)

@@ -5,6 +5,15 @@ I would be glad if you can leave feedback after reviewing my code.
 - 💼  portfolio: [link](https://egorskikh.ru/project.html)
 - 📫  how to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
 
+## Notes 🗒
+
+- [IOS Data Structures && Algorithms ](https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms)
+- [IOS Animations](https://github.com/egorskikh/IOS-Animations)
+- [IOS Design Patterns](https://github.com/egorskikh/IOS-Design-Patterns)
+- [IOS Core Data](https://github.com/egorskikh/IOS-CoreData)
+- [IOS Push Notifications](https://github.com/egorskikh/IOS-PushNotifications)
+- [IOS TDD](https://github.com/egorskikh/IOS-TDD)
+- [IOS GCD](https://github.com/egorskikh/IOS-Concurrency)
 
 
 

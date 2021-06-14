@@ -8,12 +8,14 @@ I would be glad if you can leave feedback after reviewing my code.
 ## Notes 🗒
 
 - [IOS Data Structures && Algorithms ](https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms)
-- [IOS Animations](https://github.com/egorskikh/IOS-Animations)
 - [IOS Design Patterns](https://github.com/egorskikh/IOS-Design-Patterns)
-- [IOS Core Data](https://github.com/egorskikh/IOS-CoreData)
-- [IOS Push Notifications](https://github.com/egorskikh/IOS-PushNotifications)
 - [IOS TDD](https://github.com/egorskikh/IOS-TDD)
 - [IOS GCD](https://github.com/egorskikh/IOS-Concurrency)
+- [IOS Core Data](https://github.com/egorskikh/IOS-CoreData)
+- [IOS Animations](https://github.com/egorskikh/IOS-Animations)
+- [IOS Push Notifications](https://github.com/egorskikh/IOS-PushNotifications)
+
+
 
 
 

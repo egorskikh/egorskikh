@@ -7,8 +7,11 @@
      <a href="https://egorskikh.ru/cv.html" target="_blank">
     <img src="https://img.shields.io/badge/ru%3A-cv-orange"/>
   </a>&nbsp;&nbsp;
+     <a href='mailto:main@egorskikh.ru' target="_blank">
+    <img src="https://img.shields.io/badge/-mail-blueviolet"/>
+  </a>&nbsp;&nbsp;
  <p align='center'>
-     📫  How to reach me: <a href='mailto:main@egorskikh.ru'>main@egorskikh.ru</a>
+     
 </p>
 
 <p align='center'>

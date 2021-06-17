@@ -4,6 +4,9 @@
      <a href="https://egorskikh.ru/project.html" target="_blank">
     <img src="https://img.shields.io/badge/-portfolio-ff69b4"/>
   </a>&nbsp;&nbsp;
+     <a href="https://egorskikh.ru/cv.html" target="_blank">
+    <img src="https://img.shields.io/badge/-cv-orange"/>
+  </a>&nbsp;&nbsp;
  <p align='center'>
      📫  How to reach me: <a href='mailto:main@egorskikh.ru'>main@egorskikh.ru</a>
 </p>

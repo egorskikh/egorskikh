@@ -1,4 +1,3 @@
-### Howdy! 👋
 
 <p align='center'>
      <a href="https://egorskikh.ru/project.html" target="_blank">

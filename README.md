@@ -4,8 +4,11 @@
      <a href="https://egorskikh.ru/project.html" target="_blank">
     <img src="https://img.shields.io/badge/-portfolio-ff69b4"/>
   </a>&nbsp;&nbsp;
-     <a href="https://egorskikh.ru/cv.html" target="_blank">
+     <a href="https://egorskikh.ru/ru_cv.html" target="_blank">
     <img src="https://img.shields.io/badge/ru%3A-cv-orange"/>
+  </a>&nbsp;&nbsp;
+     <a href="https://egorskikh.ru/en_cv.html" target="_blank">
+    <img src="https://img.shields.io/badge/en%3A-cv-orange"/>
   </a>&nbsp;&nbsp;
      <a href='mailto:main@egorskikh.ru' target="_blank">
     <img src="https://img.shields.io/badge/-mail-blueviolet"/>

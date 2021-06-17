@@ -1,11 +1,26 @@
 ### Howdy! 👋
 
-I would be glad if you can leave feedback after reviewing my code.
+<p align='center'>
+     <a href="https://egorskikh.ru/project.html" target="_blank">
+    <img src="https://img.shields.io/badge/-portfolio-ff69b4"/>
+  </a>&nbsp;&nbsp;
+ <p align='center'>
+     📫  How to reach me: <a href='mailto:main@egorskikh.ru'>main@egorskikh.ru</a>
+</p>
 
-- 💼  portfolio: [link](https://egorskikh.ru/project.html)
-- 📫  how to reach me: [mail](mailto:main@egorskikh.ru), [telegram](https://t.me/egorskikh)
+<p align='center'>
+   <a href="https://t.me/egorskikh" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/egorskikh" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <p align='center'>
+</p>
 
-## Notes 🗒
+
+  
+## My notes 🗒
 
 - [IOS Data Structures && Algorithms ](https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms)
 - [IOS Design Patterns](https://github.com/egorskikh/IOS-Design-Patterns)

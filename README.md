@@ -28,18 +28,6 @@
   </a>&nbsp;&nbsp;
  <p align='center'>     
 </p>
-
-<p align='center'>
-     <a href="https://egorskikh.ru/ru_cv.html" target="_blank">
-    <img src="https://img.shields.io/badge/ru%3A-cv-orange"/>
-  </a>&nbsp;&nbsp;
-     <a href="https://egorskikh.ru/en_cv.html" target="_blank">
-    <img src="https://img.shields.io/badge/en%3A-cv-orange"/>
-  </a>&nbsp;&nbsp;
- <p align='center'>     
-</p>
-
-
   
 ## My notes 🗒
 
@@ -68,5 +56,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📃  cv: [ru](https://egorskikh.ru/cv.html)
+<p align='center'>
+     <a href="https://egorskikh.ru/ru_cv.html" target="_blank">
+    <img src="https://img.shields.io/badge/ru%3A-cv-orange"/>
+  </a>&nbsp;&nbsp;
+     <a href="https://egorskikh.ru/en_cv.html" target="_blank">
+    <img src="https://img.shields.io/badge/en%3A-cv-orange"/>
+  </a>&nbsp;&nbsp;
+ <p align='center'>     
+</p>
 -->

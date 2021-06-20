@@ -17,14 +17,14 @@
 
 <p align='center'>
    <a href="https://egorskikh.ru/project.html" target="_blank">
-   <img src="https://img.shields.io/badge/-portfolio-ff69b4"/>
+   <img src="https://img.shields.io/badge/-Portfolio-ff69b4"/>
   </a>&nbsp;&nbsp;
  <p align='center'>     
 </p>
 
 <p align='center'>
     <a href='mailto:main@egorskikh.ru' target="_blank">
-    <img src="https://img.shields.io/badge/-mail-blueviolet"/>
+    <img src="https://img.shields.io/badge/-Mail-blueviolet"/>
   </a>&nbsp;&nbsp;
  <p align='center'>     
 </p>

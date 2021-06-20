@@ -32,10 +32,10 @@
 ## My notes 🗒
 
 - <a href='https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms' target="_blank">
-    <img src="https://img.shields.io/badge/Swift-Data Structures && Algorithms-9cf"/>
+    <img src="https://img.shields.io/badge/swift-Data Structures && Algorithms-9cf"/>
    
 - <a href='https://github.com/egorskikh/IOS-Design-Patterns' target="_blank">
-    <img src="https://img.shields.io/badge/Swift-Design Patterns-success"/> 
+    <img src="https://img.shields.io/badge/swift-Design Patterns-success"/> 
    
 - <a href='https://github.com/egorskikh/IOS-TDD' target="_blank">
     <img src="https://img.shields.io/badge/swift-TDD-9cf"/>

@@ -30,17 +30,26 @@
 </p>
   
 ## My notes 🗒
-
-- [IOS Data Structures && Algorithms ](https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms)
-- [IOS Design Patterns](https://github.com/egorskikh/IOS-Design-Patterns)
-- [IOS TDD](https://github.com/egorskikh/IOS-TDD)
-- [IOS GCD](https://github.com/egorskikh/IOS-Concurrency)
-- [IOS Core Data](https://github.com/egorskikh/IOS-CoreData)
-- [IOS Animations](https://github.com/egorskikh/IOS-Animations)
-- [IOS Push Notifications](https://github.com/egorskikh/IOS-PushNotifications)
-
-
-
+- <a href='https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms' target="_blank">
+    <img src="https://img.shields.io/badge/IOS-Data Structures && Algorithms-yellowgreen"/>
+   
+- <a href='https://github.com/egorskikh/IOS-Design-Patterns' target="_blank">
+    <img src="https://img.shields.io/badge/IOS-Design Patterns-9cf"/> 
+   
+- <a href='https://github.com/egorskikh/IOS-TDD' target="_blank">
+    <img src="https://img.shields.io/badge/IOS-TDD-yellowgreen"/>
+   
+- <a href='https://github.com/egorskikh/IOS-Concurrency' target="_blank">
+    <img src="https://img.shields.io/badge/IOS-Concurrency-9cf"/>
+   
+- <a href='https://github.com/egorskikh/IOS-CoreData' target="_blank">
+    <img src="https://img.shields.io/badge/IOS-Core Data-yellowgreen"/>
+   
+- <a href='https://github.com/egorskikh/IOS-Animations' target="_blank">
+    <img src="https://img.shields.io/badge/IOS-Animations-9cf"/>
+   
+- <a href='https://github.com/egorskikh/IOS-PushNotifications' target="_blank">
+    <img src="https://img.shields.io/badge/IOS-Push Notifications-yellowgreen"/>
 
 
 <!--
@@ -56,13 +65,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align='center'>
-     <a href="https://egorskikh.ru/ru_cv.html" target="_blank">
-    <img src="https://img.shields.io/badge/ru%3A-cv-orange"/>
-  </a>&nbsp;&nbsp;
-     <a href="https://egorskikh.ru/en_cv.html" target="_blank">
-    <img src="https://img.shields.io/badge/en%3A-cv-orange"/>
-  </a>&nbsp;&nbsp;
- <p align='center'>     
-</p>
+
 -->

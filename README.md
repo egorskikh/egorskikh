@@ -30,26 +30,30 @@
 </p>
   
 ## My notes 🗒
+
 - <a href='https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms' target="_blank">
-    <img src="https://img.shields.io/badge/swift-Data Structures && Algorithms-yellowgreen"/>
+    <img src="https://img.shields.io/badge/swift-Data Structures && Algorithms-9cf"/>
    
 - <a href='https://github.com/egorskikh/IOS-Design-Patterns' target="_blank">
     <img src="https://img.shields.io/badge/swift-Design Patterns-9cf"/> 
    
 - <a href='https://github.com/egorskikh/IOS-TDD' target="_blank">
-    <img src="https://img.shields.io/badge/swift-TDD-yellowgreen"/>
+    <img src="https://img.shields.io/badge/swift-TDD-9cf"/>
    
 - <a href='https://github.com/egorskikh/IOS-Concurrency' target="_blank">
-    <img src="https://img.shields.io/badge/swift-Concurrency-9cf"/>
+    <img src="https://img.shields.io/badge/swift-Concurrency-important"/>
    
 - <a href='https://github.com/egorskikh/IOS-CoreData' target="_blank">
-    <img src="https://img.shields.io/badge/swift-Core Data-yellowgreen"/>
+    <img src="https://img.shields.io/badge/swift-Core Data-important"/>
    
 - <a href='https://github.com/egorskikh/IOS-Animations' target="_blank">
-    <img src="https://img.shields.io/badge/swift-Animations-9cf"/>
+    <img src="https://img.shields.io/badge/swift-Animations-important"/>
    
 - <a href='https://github.com/egorskikh/IOS-PushNotifications' target="_blank">
-    <img src="https://img.shields.io/badge/swift-Push Notifications-yellowgreen"/>
+    <img src="https://img.shields.io/badge/swift-Push Notifications-important"/>
+   
+- <a href='https://github.com/egorskikh/IOS-RxSwift' target="_blank">
+    <img src="https://img.shields.io/badge/swift-RxSwift-success"/>
 
 
 <!--

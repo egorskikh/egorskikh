@@ -34,6 +34,11 @@ My name is Egor Gorskikh. And I'm self-taught.
   </a>&nbsp;&nbsp;
  <p align='center'>     
 </p>
+
+<p align='center'>
+Thanks to the Internet, I am getting better at programming every day than I was yesterday.
+<p align='center'>
+</p>
   
 ## My notes 🗒
 

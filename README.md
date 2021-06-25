@@ -55,12 +55,16 @@
 - <a href='https://github.com/egorskikh/IOS-PushNotifications' target="_blank">
     <img src="https://img.shields.io/badge/swift-Push Notifications-success"/>
    
+## Coming soon
+   
 - <a href='https://github.com/egorskikh/IOS-RxSwift' target="_blank">
-    <img src="https://img.shields.io/badge/swift-RxSwift-9cf"/>
+    <img src="https://img.shields.io/badge/swift-RxSwift-yellow"/>
    
 - <a href='https://github.com/egorskikh/IOS-Machine-Learning' target="_blank">
-    <img src="https://img.shields.io/badge/swift-Machine Learning-success"/>
-   
+    <img src="https://img.shields.io/badge/swift-Machine Learning-yellow"/>
+
+- <a href='https://github.com/egorskikh/IOS-VAPOR' target="_blank">
+    <img src="https://img.shields.io/badge/swift-VAPOR-yellow"/>
 
 
    
@@ -68,6 +72,5 @@
 
 
 <!--
-- <a href='https://github.com/egorskikh/IOS-VAPOR' target="_blank">
-    <img src="https://img.shields.io/badge/swift-VAPOR-9cf"/>
+
 -->

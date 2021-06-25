@@ -36,7 +36,7 @@ My name is Egor Gorskikh. And I'm self-taught.
 </p>
 
 <p align='center'>
-Thanks to the Internet, I am getting better at programming every day than I was yesterday.
+Thanks to the Internet, I am getting better every day than yesterday.
 <p align='center'>
 </p>
   

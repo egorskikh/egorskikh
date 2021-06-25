@@ -57,8 +57,17 @@
    
 - <a href='https://github.com/egorskikh/IOS-RxSwift' target="_blank">
     <img src="https://img.shields.io/badge/swift-RxSwift-9cf"/>
+   
+- <a href='https://github.com/egorskikh/IOS-Machine-Learning' target="_blank">
+    <img src="https://img.shields.io/badge/swift-Machine Learning-success"/>
+   
+
+
+   
 
 
 
 <!--
+- <a href='https://github.com/egorskikh/IOS-VAPOR' target="_blank">
+    <img src="https://img.shields.io/badge/swift-VAPOR-9cf"/>
 -->

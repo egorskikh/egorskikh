@@ -66,8 +66,6 @@ Thanks to the Internet, I am getting better every day than yesterday.
 - <a href='https://github.com/egorskikh/IOS-PushNotifications' target="_blank">
     <img src="https://img.shields.io/badge/swift-Push Notifications-success"/>
    
-## Coming soon
-   
 - <a href='https://github.com/egorskikh/IOS-RxSwift' target="_blank">
     <img src="https://img.shields.io/badge/swift-RxSwift-yellow"/>
    

@@ -9,31 +9,35 @@ My name is Egor Gorskikh. And I'm self-taught.
   <a href="https://egorskikh.ru/" target="_blank">
     <img src="https://img.shields.io/badge/egorskikh.ru-important.svg?&style=for-the-badge&logo=&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  
    <a href="https://twitter.com/egorskikh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  
    <a href="https://www.instagram.com/egorskikh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  
    <a href="https://t.me/egorskikh" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/egorskikh" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align='center'>
 </p>
 
-<p align='center'> 
-   <a href="https://egorskikh.ru/project.html" target="_blank">
-   <img src="https://img.shields.io/badge/portfolio-ff69b4.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<p align='center'>
+    <a href='mailto: main@egorskikh.ru' target="_blank">
+    <img src="https://img.shields.io/badge/mail-blueviolet.svg?&style=for-the-badge&logo=&logoColor=white"/>
   </a>&nbsp;&nbsp;
  <p align='center'>     
 </p>
 
-<p align='center'>
-    <a href='mailto: main@egorskikh.ru' target="_blank">
-    <img src="https://img.shields.io/badge/mail-blueviolet.svg?&style=for-the-badge&logo=&logoColor=white"/>
+<p align='center'> 
+   <a href="https://egorskikh.ru/project.html" target="_blank">
+   <img src="https://img.shields.io/badge/portfolio-ff69b4.svg?&style=for-the-badge&logo=&logoColor=white"/>
   </a>&nbsp;&nbsp;
  <p align='center'>     
 </p>

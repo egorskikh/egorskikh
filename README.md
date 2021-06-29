@@ -6,7 +6,7 @@ My name is Egor Gorskikh. And I'm self-taught.
 </p>
 
 <p align='center'>
-  <a href="https://twitter.com/egorskikh" target="_blank">
+  <a href="https://egorskikh.ru/" target="_blank">
     <img src="https://img.shields.io/badge/egorskikh.ru-important.svg?&style=for-the-badge&logo=&logoColor=white" />        
   </a>&nbsp;&nbsp;
    <a href="https://twitter.com/egorskikh" target="_blank">

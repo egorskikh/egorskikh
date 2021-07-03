@@ -86,14 +86,7 @@ Thanks to the Internet, I am getting better every day than yesterday.
     <img src="https://img.shields.io/badge/swift-VAPOR-yellow"/>
 
 
-   <p align='center'>
-[![summerHearts's github stats](https://github-readme-stats.vercel.app/api?username=egorskikh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<p align='center'>
-</p>
-  
-
-
-
 <!--
+[![summerHearts's github stats](https://github-readme-stats.vercel.app/api?username=egorskikh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 -->

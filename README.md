@@ -53,15 +53,14 @@ Thanks to the Internet, I am getting better every day than yesterday.
     <img src="https://img.shields.io/badge/swift-Data Structures && Algorithms-9cf"/>
    
 - <a href='https://github.com/egorskikh/IOS-App-Architecture' target="_blank">
-    <img src="https://img.shields.io/badge/swift-App Architecture-success"/>
+    <img src="https://img.shields.io/badge/swift-App Architecture-inactive"/>
    
 - <a href='https://github.com/egorskikh/IOS-Design-Patterns' target="_blank">
     <img src="https://img.shields.io/badge/swift-Design Patterns-9cf"/> 
    
 - <a href='https://github.com/egorskikh/IOS-TDD' target="_blank">
-    <img src="https://img.shields.io/badge/swift-TDD-success"/>
+    <img src="https://img.shields.io/badge/swift-TDD-inactive"/>
   
-   
 - <a href='https://github.com/egorskikh/IOS-Concurrency' target="_blank">
     <img src="https://img.shields.io/badge/swift-Concurrency-9cf"/>
   
@@ -69,13 +68,13 @@ Thanks to the Internet, I am getting better every day than yesterday.
     <img src="https://img.shields.io/badge/swift-SwiftUI-yellow"/>
    
 - <a href='https://github.com/egorskikh/IOS-CoreData' target="_blank">
-    <img src="https://img.shields.io/badge/swift-Core Data-success"/>
+    <img src="https://img.shields.io/badge/swift-Core Data-inactive"/>
    
 - <a href='https://github.com/egorskikh/IOS-Animations' target="_blank">
     <img src="https://img.shields.io/badge/swift-Animations-9cf"/>
    
 - <a href='https://github.com/egorskikh/IOS-PushNotifications' target="_blank">
-    <img src="https://img.shields.io/badge/swift-Push Notifications-success"/>
+    <img src="https://img.shields.io/badge/swift-Push Notifications-inactive"/>
    
 - <a href='https://github.com/egorskikh/IOS-Combine' target="_blank">
     <img src="https://img.shields.io/badge/swift-Combine-yellow"/>

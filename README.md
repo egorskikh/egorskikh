@@ -60,9 +60,13 @@ Thanks to the Internet, I am getting better every day than yesterday.
    
 - <a href='https://github.com/egorskikh/IOS-TDD' target="_blank">
     <img src="https://img.shields.io/badge/swift-TDD-success"/>
+  
    
 - <a href='https://github.com/egorskikh/IOS-Concurrency' target="_blank">
     <img src="https://img.shields.io/badge/swift-Concurrency-9cf"/>
+  
+- <a href='https://github.com/egorskikh/IOS-SwiftUI' target="_blank">
+    <img src="https://img.shields.io/badge/swift-SwiftUI-yellow"/>
    
 - <a href='https://github.com/egorskikh/IOS-CoreData' target="_blank">
     <img src="https://img.shields.io/badge/swift-Core Data-success"/>

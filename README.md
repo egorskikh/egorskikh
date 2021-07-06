@@ -63,9 +63,6 @@ Thanks to the Internet, I am getting better every day than yesterday.
   
 - <a href='https://github.com/egorskikh/IOS-Concurrency' target="_blank">
     <img src="https://img.shields.io/badge/swift-Concurrency-9cf"/>
-  
-- <a href='https://github.com/egorskikh/IOS-SwiftUI' target="_blank">
-    <img src="https://img.shields.io/badge/swift-SwiftUI-yellow"/>
    
 - <a href='https://github.com/egorskikh/IOS-CoreData' target="_blank">
     <img src="https://img.shields.io/badge/swift-Core Data-inactive"/>
@@ -75,6 +72,9 @@ Thanks to the Internet, I am getting better every day than yesterday.
    
 - <a href='https://github.com/egorskikh/IOS-PushNotifications' target="_blank">
     <img src="https://img.shields.io/badge/swift-Push Notifications-inactive"/>
+ 
+- <a href='https://github.com/egorskikh/IOS-SwiftUI' target="_blank">
+    <img src="https://img.shields.io/badge/swift-SwiftUI-yellow"/>
    
 - <a href='https://github.com/egorskikh/IOS-Combine' target="_blank">
     <img src="https://img.shields.io/badge/swift-Combine-yellow"/>

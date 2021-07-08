@@ -9,8 +9,9 @@ My name is Egor Gorskikh. And I'm self-taught.
   <a href="https://egorskikh.ru/" target="_blank">
     <img src="https://img.shields.io/badge/egorskikh.ru-important.svg?&style=for-the-badge&logo=&logoColor=white" />        
   </a>&nbsp;&nbsp;
+
   
-   <a href="https://twitter.com/egorskikh" target="_blank">
+  <a href="https://twitter.com/egorskikh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -51,10 +52,13 @@ Thanks to the Internet, I am getting better every day than yesterday.
 
 - <a href='https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms' target="_blank">
     <img src="https://img.shields.io/badge/swift-Data Structures && Algorithms-9cf"/>
-   
-- <a href='https://github.com/egorskikh/IOS-App-Architecture' target="_blank">
-    <img src="https://img.shields.io/badge/swift-App Architecture-inactive"/>
-   
+     
+- <a href='https://github.com/egorskikh/IOS-UIKit' target="_blank">
+    <img src="https://img.shields.io/badge/swift-UIKit-yellow"/>
+  
+- <a href='https://github.com/egorskikh/IOS-SwiftUI' target="_blank">
+    <img src="https://img.shields.io/badge/swift-SwiftUI-yellow"/>
+    
 - <a href='https://github.com/egorskikh/IOS-Design-Patterns' target="_blank">
     <img src="https://img.shields.io/badge/swift-Design Patterns-9cf"/> 
    
@@ -72,9 +76,9 @@ Thanks to the Internet, I am getting better every day than yesterday.
    
 - <a href='https://github.com/egorskikh/IOS-PushNotifications' target="_blank">
     <img src="https://img.shields.io/badge/swift-Push Notifications-inactive"/>
- 
-- <a href='https://github.com/egorskikh/IOS-SwiftUI' target="_blank">
-    <img src="https://img.shields.io/badge/swift-SwiftUI-yellow"/>
+  
+- <a href='https://github.com/egorskikh/IOS-App-Architecture' target="_blank">
+    <img src="https://img.shields.io/badge/swift-App Architecture-inactive"/>
    
 - <a href='https://github.com/egorskikh/IOS-Combine' target="_blank">
     <img src="https://img.shields.io/badge/swift-Combine-yellow"/>

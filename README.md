@@ -49,9 +49,14 @@ Thanks to the Internet, I am getting better every day than yesterday.
 </p>
   
 ## My notes 🗒
+- <a href='https://github.com/egorskikh/Playgrounds/tree/main/Swift' target="_blank">
+    <img src="https://img.shields.io/badge/swift-SWIFT-black"/>
 
 - <a href='https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms' target="_blank">
     <img src="https://img.shields.io/badge/swift-Data Structures && Algorithms-9cf"/>
+ 
+- <a href='https://github.com/egorskikh/IOS-UIKit' target="_blank">
+    <img src="https://img.shields.io/badge/swift-UIKit-yellow"/>
   
 - <a href='https://github.com/egorskikh/IOS-SwiftUI' target="_blank">
     <img src="https://img.shields.io/badge/swift-SwiftUI-yellow"/>
@@ -76,16 +81,7 @@ Thanks to the Internet, I am getting better every day than yesterday.
   
 - <a href='https://github.com/egorskikh/IOS-App-Architecture' target="_blank">
     <img src="https://img.shields.io/badge/swift-App Architecture-inactive"/>
-   
-
-
-
-<!--
-[![summerHearts's github stats](https://github-readme-stats.vercel.app/api?username=egorskikh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-     
-- <a href='https://github.com/egorskikh/IOS-UIKit' target="_blank">
-    <img src="https://img.shields.io/badge/swift-UIKit-yellow"/>
+  
 - <a href='https://github.com/egorskikh/IOS-Combine' target="_blank">
     <img src="https://img.shields.io/badge/swift-Combine-yellow"/>
   
@@ -97,5 +93,16 @@ Thanks to the Internet, I am getting better every day than yesterday.
 
 - <a href='https://github.com/egorskikh/IOS-VAPOR' target="_blank">
     <img src="https://img.shields.io/badge/swift-VAPOR-yellow"/>
+   
+
+
+
+<!--
+[![summerHearts's github stats](https://github-readme-stats.vercel.app/api?username=egorskikh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+     
+
+
+
 
 -->

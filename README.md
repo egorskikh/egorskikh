@@ -49,8 +49,11 @@ Thanks to the Internet, I am getting better every day than yesterday.
 </p>
   
 ## My notes 🗒
+- <a href='https://github.com/egorskikh/Hello-Objective-C' target="_blank">
+    <img src="https://img.shields.io/badge/objc-Objective C-black"/>
+
 - <a href='https://github.com/egorskikh/Playgrounds/tree/main/Swift' target="_blank">
-    <img src="https://img.shields.io/badge/swift-SWIFT-black"/>
+    <img src="https://img.shields.io/badge/swift-Swift-black"/>
 
 - <a href='https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms' target="_blank">
     <img src="https://img.shields.io/badge/swift-Data Structures && Algorithms-9cf"/>

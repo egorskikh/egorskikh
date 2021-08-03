@@ -57,9 +57,6 @@ Thanks to the Internet, I am getting better every day than yesterday.
 
 - <a href='https://github.com/egorskikh/IOS-Data-Structures-and-Algorithms' target="_blank">
     <img src="https://img.shields.io/badge/swift-Data Structures && Algorithms-9cf"/>
- 
-- <a href='https://github.com/egorskikh/IOS-UIKit' target="_blank">
-    <img src="https://img.shields.io/badge/swift-UIKit-yellow"/>
   
 - <a href='https://github.com/egorskikh/IOS-SwiftUI' target="_blank">
     <img src="https://img.shields.io/badge/swift-SwiftUI-yellow"/>
@@ -107,6 +104,9 @@ Thanks to the Internet, I am getting better every day than yesterday.
 | --- | --- | --- | --- | 
 | A | B | C | D |
 | A | B | C | D |
+
+- <a href='https://github.com/egorskikh/IOS-UIKit' target="_blank">
+    <img src="https://img.shields.io/badge/swift-UIKit-yellow"/>
 
 
 

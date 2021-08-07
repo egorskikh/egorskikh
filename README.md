@@ -36,12 +36,6 @@ My name is Egor Gorskikh. And I'm self-taught.
  <p align='center'>     
 </p>
 
-<p align='center'> 
-   <a href="https://egorskikh.ru/project.html" target="_blank">
-   <img src="https://img.shields.io/badge/portfolio-ff69b4.svg?&style=for-the-badge&logo=&logoColor=white"/>
-  </a>&nbsp;&nbsp;
- <p align='center'>     
-</p>
 
 <p align='center'>
 Thanks to the Internet, I am getting better every day than yesterday.
@@ -108,7 +102,12 @@ Thanks to the Internet, I am getting better every day than yesterday.
 - <a href='https://github.com/egorskikh/IOS-UIKit' target="_blank">
     <img src="https://img.shields.io/badge/swift-UIKit-yellow"/>
 
-
+<p align='center'> 
+   <a href="https://egorskikh.ru/project.html" target="_blank">
+   <img src="https://img.shields.io/badge/portfolio-ff69b4.svg?&style=for-the-badge&logo=&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+ <p align='center'>     
+</p>
 
 
 -->

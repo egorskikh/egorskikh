@@ -36,11 +36,19 @@ My name is Egor Gorskikh. And I'm self-taught.
  <p align='center'>     
 </p>
 
-
 <p align='center'>
 Thanks to the Internet, I am getting better every day than yesterday.
 <p align='center'>
 </p>
+
+
+
+   
+
+
+
+<!--
+
   
 ## My notes 🗒
 - <a href='https://github.com/egorskikh/Hello-Objective-C' target="_blank">
@@ -87,11 +95,7 @@ Thanks to the Internet, I am getting better every day than yesterday.
 
 - <a href='https://github.com/egorskikh/IOS-VAPOR' target="_blank">
     <img src="https://img.shields.io/badge/swift-VAPOR-yellow"/>
-   
 
-
-
-<!--
 [![summerHearts's github stats](https://github-readme-stats.vercel.app/api?username=egorskikh&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 | 1 | 2 | 3 | 4 | 

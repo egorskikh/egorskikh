@@ -4,12 +4,6 @@
 My name is Egor Gorskikh. And I'm self-taught.
 <p align='center'>
 </p>
-
-<p align='center'>
-  <a href="https://egorskikh.ru/" target="_blank">
-    <img src="https://img.shields.io/badge/egorskikh.ru-important.svg?&style=for-the-badge&logo=&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-
   
   <a href="https://twitter.com/egorskikh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
@@ -23,7 +17,7 @@ My name is Egor Gorskikh. And I'm self-taught.
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/egorskikh" target="_blank">
+  <a href="https://www.linkedin.com/in/уegorskikh" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align='center'>
@@ -49,6 +43,10 @@ Thanks to the Internet, I am getting better every day than yesterday.
 
 <!--
 
+<p align='center'>
+  <a href="https://egorskikh.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/egorskikh.ru-important.svg?&style=for-the-badge&logo=&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   
 ## My notes 🗒
 - <a href='https://github.com/egorskikh/Hello-Objective-C' target="_blank">

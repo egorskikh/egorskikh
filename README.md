@@ -1,7 +1,7 @@
 ## Howdy! 🙋🏻‍♂️
 
 <p align='center'>
-My name is Egor Gorskikh. And I'm self-taught.
+My name is Yegor Gorskikh. And I'm self-taught.
 <p align='center'>
 </p>
 

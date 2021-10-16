@@ -25,8 +25,8 @@ My name is Yegor Gorskikh. And I'm self-taught.
 </p>
 
 <p align='center'>
-    <a href='mailto: main@egorskikh.ru' target="_blank">
-    <img src="https://img.shields.io/badge/mail-blueviolet.svg?&style=for-the-badge&logo=&logoColor=white"/>
+    <a href='mailto: yegorskikh@gmail.com' target="_blank">
+    <img src="https://img.shields.io/badge/mail-pink.svg?&style=for-the-badge&logo=&logoColor=white"/>
   </a>&nbsp;&nbsp;
  <p align='center'>     
 </p>

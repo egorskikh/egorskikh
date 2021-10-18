@@ -14,7 +14,7 @@ My name is Yegor Gorskikh. And I'm self-taught.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-   <a href="https://t.me/уegorskikh" target="_blank">
+   <a href="https://t.me/yegorskikh" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   

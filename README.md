@@ -1,4 +1,4 @@
-## Howdy! 🙋🏻‍♂️
+## Howdy! My name is Yegor Gorskikh 🙋🏻‍♂️
 
   <p align='center'>
   <a href="https://twitter.com/yegorskikh" target="_blank">

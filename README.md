@@ -21,7 +21,7 @@
 
 <p align='center'>
     <a href='mailto: yegorskikh@gmail.com' target="_blank">
-    <img src="https://img.shields.io/badge/mail-pink.svg?&style=for-the-badge&logo=&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mail-green.svg?&style=for-the-badge&logo=&logoColor=white"/>
   </a>&nbsp;&nbsp;
  <p align='center'>     
 </p>
